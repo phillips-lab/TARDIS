@@ -7,7 +7,7 @@ Zach Stevenson: zstevens at uoregon.edu<br />
 <br />
 Megan Moerdyk-Schauwecker: mmoerdyk at uoregon.edu<br />
 <br />
-Article: (pre-print pending)
+Preprint https://www.biorxiv.org/content/10.1101/2022.10.30.514301v1
 <br />
 <br />
 Plasmids & Sequence Files- Benchling Links: <br />
@@ -88,3 +88,7 @@ To use these files in software like ApE, download the .gb file format<br />
 ApE can be downloaded at: https://jorgensen.biology.utah.edu/wayned/ape/  <br />
 <br />
 Future strains, plasmids, TARDIS libraries, etc. will be avalivble at updates to this website.
+<br />
+<br />
+Additional supplemental files can be found on Figshare: (link here)
+Sequencing reads can be found at PRJNA893002 (https://www.ncbi.nlm.nih.gov/bioproject/893002)
